@@ -45,4 +45,6 @@ A dedicated FTDI chip handles getting a bitstream onto the FPGA, with two paths:
 
 ## Authors
 
-Matthew Kong, Albert Huang, Arnav Agarwal
+[Matthew Kong](https://github.com/HynixCJR)
+[Albert Huang](https://github.com/dphhs)
+[Arnav Agarwal](https://github.com/arnyagrwl)
